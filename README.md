@@ -1,4 +1,4 @@
-# DeathStats-Backend-Server
+# DeathStats-DB
 
 ## Setup and Demonstration of the application
 
